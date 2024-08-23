@@ -143,7 +143,7 @@ The engine and the demo applications are compiled separately. The engine is comp
 
 ## Roadmap
 
-I always work *on and off* on this project, but I try to make more regular releases until the end of 2024.
+The future of this project is uncertain. For now it is on hold while I focus on other things like learning Vulkan.
 
 ### Release preview
 
